@@ -3,7 +3,6 @@
   height: 100%;
 }
 
-
 .bg-black{
   color: #fff;
   background: #000;
@@ -17,6 +16,7 @@
 #main-header .port-item:hover{
   opacity: 0.8;
   cursor: pointer;
+
 }
 
 
